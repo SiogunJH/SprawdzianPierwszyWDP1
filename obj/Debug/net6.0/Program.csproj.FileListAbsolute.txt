@@ -1,0 +1,15 @@
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.AssemblyInfo.cs
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+D:\Users\jakub.hojda\Desktop\Sprawdzian\bin\Debug\net6.0\Program.exe
+D:\Users\jakub.hojda\Desktop\Sprawdzian\bin\Debug\net6.0\Program.deps.json
+D:\Users\jakub.hojda\Desktop\Sprawdzian\bin\Debug\net6.0\Program.runtimeconfig.json
+D:\Users\jakub.hojda\Desktop\Sprawdzian\bin\Debug\net6.0\Program.dll
+D:\Users\jakub.hojda\Desktop\Sprawdzian\bin\Debug\net6.0\Program.pdb
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.dll
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\refint\Program.dll
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.pdb
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\Program.genruntimeconfig.cache
+D:\Users\jakub.hojda\Desktop\Sprawdzian\obj\Debug\net6.0\ref\Program.dll
